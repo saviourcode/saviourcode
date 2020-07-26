@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on:
-* Object-Oriented Programming
+  * Object-Oriented Programming
 - 🌱 I’m currently learning:
-* C++
+  * C++
 - 📫 How to reach me:
-* [LinkedIn](https://www.linkedin.com/in/sjchoure/)
-* [FaceBook](https://www.facebook.com/sjchoure)
-* [Twitter](https://twitter.com/sjchoure)
-* [DEV](https://dev.to/saviourcode)
+  * [LinkedIn](https://www.linkedin.com/in/sjchoure/)
+  * [FaceBook](https://www.facebook.com/sjchoure)
+  * [Twitter](https://twitter.com/sjchoure)
+  * [DEV](https://dev.to/saviourcode)
 
 <!--
 **saviourcode/saviourcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
